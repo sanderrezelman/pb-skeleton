@@ -15,7 +15,7 @@
         {
           label: 'Set the label for your option (e.g. Text color)',
           key: 'Set the key for your option (e.g. color)',
-          value: 'Set the value for your option (e.g. #E9004C)',
+          value: 'Set the value for your option (e.g. Primary)',
           type: 'Set the type for your option (e.g. COLOR)',
         },
         {
